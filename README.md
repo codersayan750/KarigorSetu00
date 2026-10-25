@@ -1,35 +1,3 @@
-# 🪡 KarigarSetu (कारीगर सेतु)
-### *AI-Driven Market Linkage & Smart Cataloging Platform for Marginalized Artisans*
-
-<div align="center">
-
-[![Smart India Hackathon 2026](https://img.shields.io/badge/SIH-2026-orange?style=for-the-badge&logo=target)](https://www.sih.gov.in/)
-[![Theme: Heritage & Culture](https://img.shields.io/badge/Theme-Heritage%20%26%20Culture-8A2BE2?style=for-the-badge)](https://handicrafts.gov.in/)
-[![Problem Statement ID](https://img.shields.io/badge/PS%20ID-26090-blue?style=for-the-badge)](https://www.sih.gov.in/)
-[![Team: SIH HUNTERS](https://img.shields.io/badge/Team-SIH%20HUNTERS%20(131644)-green?style=for-the-badge)](#team-sih-hunters)
-
-**Bridging traditional craftsmanship with digital commerce through cutting-edge Generative AI.**
-
-[🌐 Live Demo](https://karigarsetu-frontend.onrender.com/) • [📁 GitHub Repository](https://github.com/Team-Hunters-AGEMC/KarigarSetu) • [🎥 Video Presentation](https://drive.google.com/drive/folders/1kBVFq0CADzbp-O-NUrt953CDTUbS59zA)
-
-</div>
-
----
-
-## 📌 Executive Summary
-
-| Parameter | Details |
-| :--- | :--- |
-| **Competition** | **Smart India Hackathon (SIH) 2026** |
-| **Team Name** | **SIH HUNTERS** |
-| **Team ID** | **131644** |
-| **Problem Statement ID** | **26090** |
-| **Problem Statement Title** | **AI-Driven Market Linkage and Smart Cataloging Mobile Application for Marginalized Artisans** |
-| **Theme** | **Heritage & Culture** |
-| **Category** | **Software** |
-
----
-
 ## 📖 Proposed Solution
 
 India's traditional artisans face steep digital barriers: dependence on exploitative middlemen, complex e-commerce listing workflows, literacy and language limitations, and lack of verified authenticity.
@@ -316,16 +284,6 @@ REMOVE_BG_API_KEY=your_optional_remove_bg_key
 
 ---
 
-## 👥 Team SIH HUNTERS
-
-Developed with ❤️ for **Smart India Hackathon 2026** by **SIH HUNTERS** (Team ID: `131644`).
-
-- **Theme**: Heritage & Culture
-- **Problem Statement ID**: 26090
-- **Live Platform**: [karigarsetu-frontend.onrender.com](https://karigarsetu-frontend.onrender.com/)
-- **Repository**: [Team-Hunters-AGEMC/KarigarSetu](https://github.com/Team-Hunters-AGEMC/KarigarSetu)
-
----
 <div align="center">
   <sub>Preserving India's Craft Heritage • Empowering Grassroots Artisans • Powered by Responsible AI</sub>
 </div>
