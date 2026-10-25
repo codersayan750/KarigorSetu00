@@ -27,19 +27,10 @@ export const AdminLogin: React.FC = () => {
   const [errorMessage, setErrorMessage] = useState('');
   const [isLocked, setIsLocked] = useState(false);
 
-  // Check if admin is already logged in
+  // Deployment B demo: redirect directly to admin dashboard
   useEffect(() => {
-    async function checkExisting() {
-      const res = await adminApi.checkAdminAuth();
-      if (res.authenticated && res.user?.role === 'admin') {
-        const destination = (location.state as any)?.from?.pathname || '/admin/dashboard';
-        navigate(destination, { replace: true });
-      } else {
-        setIsVerifyingExisting(false);
-      }
-    }
-    checkExisting();
-  }, [navigate, location]);
+    navigate('/admin/dashboard', { replace: true });
+  }, [navigate]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
